@@ -17,7 +17,7 @@ The following list contains all the files and directories in the parent director
 * cluster_model_generation: Contains all starting models for optimizations, and the script to align and replace equilenin with 19NT.
 
 * ksi_composed_data_qmzyme.xlsx: Contains raw values of all the data in the paper
-# Data structure
+# File Tree
 
 QMzyme-Data-Repository/ \
 ├── 19nt_gaussian_efg_calculations \
