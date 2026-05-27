@@ -6,22 +6,22 @@ This repository contains all the data files that were used for geometry optimiza
 
 # Data structure
 
-QMzyme-Data-Repository/
-├── 19nt_gaussian_efg_calculations
-│   ├── mm_minimized_starting_structure
-│   └── xstal_starting_structure
-├── 19nt_optimizations
-│   ├── mm_minimized_starting_structure
-│   └── xstal_starting_structure
-├── 19nt_qchem_spade_ef_calculations
-│   ├── mm_min_starting_structures
-│   └── xstal_starting_structure
-├── MD Simulations
-│   ├── EQU_parameterizatin
-│   ├── TUPA Data
-│   └── tleap.in
-├── README.md
-├── Scripts
-├── cluster_model_generation
-└── ksi_composed_data_qmzyme.xlsx
+QMzyme-Data-Repository/ \
+├── 19nt_gaussian_efg_calculations \
+│   ├── mm_minimized_starting_structure \
+│   └── xstal_starting_structure \
+├── 19nt_optimizations \
+│   ├── mm_minimized_starting_structure \
+│   └── xstal_starting_structure \
+├── 19nt_qchem_spade_ef_calculations \
+│   ├── mm_min_starting_structures \
+│   └── xstal_starting_structure \
+├── MD Simulations \
+│   ├── EQU_parameterizatin \
+│   ├── TUPA Data \
+│   └── tleap.in \
+├── README.md \
+├── Scripts \
+├── cluster_model_generation \
+└── ksi_composed_data_qmzyme.xlsx 
 
