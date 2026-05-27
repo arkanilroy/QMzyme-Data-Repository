@@ -1,0 +1,16 @@
+,Resid,Resname,Charge,Removed atoms,Fixed atoms,Segids
+0,16,TYR,0,"['N', 'H', 'C', 'O']",['CA'],QM
+1,20,VAL,0,"['N', 'H', 'C', 'O']",['CA'],QM
+2,40,ASP,-1,"['N', 'H', 'C', 'O']",['CA'],QM
+3,60,GLY,0,"['N', 'H']",['CA'],QM
+4,61,LEU,0,"['C', 'O']",['CA'],QM
+5,66,VAL,0,"['N', 'H', 'C', 'O']",['CA'],QM
+6,86,PHE,0,"['N', 'H', 'C', 'O']",['CA'],QM
+7,88,VAL,0,"['N', 'H', 'C', 'O']",['CA'],QM
+8,90,MET,0,"['N', 'H', 'C', 'O']",['CA'],QM
+9,99,LEU,0,"['N', 'H', 'C', 'O']",['CA'],QM
+10,101,VAL,0,"['N', 'H', 'C', 'O']",['CA'],QM
+11,103,ASH,0,"['N', 'H', 'C', 'O']",['CA'],QM
+12,118,ALA,0,"['N', 'H', 'C', 'O']",['CA'],QM
+13,120,TRP,0,"['N', 'H', 'C', 'O']",['CA'],QM
+14,201,6VW,0,[],[],QM

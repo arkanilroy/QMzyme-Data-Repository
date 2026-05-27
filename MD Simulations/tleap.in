@@ -1,0 +1,13 @@
+source leaprc.protein.ff14SB #Source leaprc file for ff14SB protein force field
+source leaprc.gaff #Source leaprc file for gaff, general force field for organic molecules/ligand
+source leaprc.water.tip3p #Source leaprc file for TIP3P water model
+EQU = loadmol2 EQU_HF.mol2
+loadamberparams EQU_HF.frcmod
+mol = loadpdb 1oh0_pdbfixer_H++_result.pdb
+#mol = loadpdb 1oh0_pymol_build_missing_residues.pdb
+solvatebox mol TIP3PBOX 12 iso 0.8
+addions mol Na+ 58
+addions mol Cl- 48
+savepdb mol 1oh0_equ_preprocessed.pdb
+saveamberparm mol 1oh0_equ.prmtop 1oh0_equ.rst7
+quit

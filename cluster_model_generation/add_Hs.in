@@ -1,0 +1,6 @@
+source leaprc.protein.ff14sb
+source leaprc.water.tip3p
+EQU = loadmol2 EQU.mol2
+loadamberparams EQU.frcmod
+x = loadpdb 1oh0_equ_xstal_with_wat.pdb
+savepdb x 1oh0_equ_crystal.pdb
